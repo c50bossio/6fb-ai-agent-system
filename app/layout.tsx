@@ -5,9 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '6FB AI Agent System',
-  description: 'AI-powered barbershop business optimization platform',
-  manifest: '/manifest.json',
+  title: '6FB-AI Staging',
+  description: 'AI-powered barbershop business optimization platform - Staging Environment',
 }
 
 export const viewport: Viewport = {
