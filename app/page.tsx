@@ -9,7 +9,7 @@ export default function HomePage() {
     setIsSigningIn(true)
     // Simulate sign in process
     setTimeout(() => {
-      alert('Welcome to the staging environment! Test away!')
+      alert('Welcome to the 6FB AI Agent System! Your business intelligence platform is ready.')
       setIsSigningIn(false)
     }, 1500)
   }
@@ -96,7 +96,7 @@ export default function HomePage() {
                   </button>
                   
                   <p className="mt-3 text-sm text-gray-500 text-center">
-                    Staging Environment • Test & Development
+                    Production Environment • Ready for Business
                   </p>
                 </div>
               </div>

@@ -1,8 +1,8 @@
 {
-  "name": "6fb-staging",
+  "name": "6fb-production",
   "version": "1.0.0",
   "private": true,
-  "description": "6FB AI Agent System - Staging Environment",
+  "description": "6FB AI Agent System - Production Environment",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
