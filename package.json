@@ -1,8 +1,8 @@
 {
-  "name": "6fb-production",
+  "name": "6fb-ai-production",
   "version": "1.0.0",
   "private": true,
-  "description": "6FB AI Agent System - Production Environment",
+  "description": "6FB-AI Production Environment",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
